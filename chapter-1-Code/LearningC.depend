@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527377408 source:c:\users\bryan\desktop\c primer\learningc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527144916 source:c:\users\bryan\desktop\c primer\learningc\first.c
+	<stdio.h>
+
+1527377426 source:c:\users\bryan\desktop\c primer\learningc\fathm_ft.c
+	<stdio.h>
+

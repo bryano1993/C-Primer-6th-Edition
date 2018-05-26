@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527381427 source:c:\users\bryan\desktop\c primer\chapter1problems\problem1.c
+	<stdio.h>
+
+1527381438 source:c:\users\bryan\desktop\c primer\chapter1problems\main.c
+	<stdio.h>
+	<stdlib.h>
+

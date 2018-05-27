@@ -37,6 +37,27 @@
 		<Unit filename="problem1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="problem2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="problem3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="problem4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="problem5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="problem6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="problem7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="problem8.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1527482215 source:c:\users\bryan\desktop\c primer\chapter-2-problems\problem1.c
+	<stdio.h>
+
+1527490089 source:c:\users\bryan\desktop\c primer\chapter-2-problems\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527483233 source:c:\users\bryan\desktop\c primer\chapter-2-problems\problem2.c
+	<stdio.h>
+
+1527486547 source:c:\users\bryan\desktop\c primer\chapter-2-problems\problem3.c
+	<stdio.h>
+
+1527486926 source:c:\users\bryan\desktop\c primer\chapter-2-problems\problem4.c
+	<stdio.h>
+
+1527489123 source:c:\users\bryan\desktop\c primer\chapter-2-problems\problem5.c
+	<stdio.h>
+
+1527489168 source:c:\users\bryan\desktop\c primer\chapter-2-problems\problem6.c
+	<stdio.h>
+

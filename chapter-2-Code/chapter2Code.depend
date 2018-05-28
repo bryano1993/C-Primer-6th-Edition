@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1527390323 source:c:\users\bryan\desktop\c primer\chapter2code\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527404212 source:c:\users\bryan\desktop\c-primer\chapter-2-code\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527398974 source:c:\users\bryan\desktop\c-primer\chapter-2-code\platnium.c
+	<stdio.h>
+
+1527399395 source:c:\users\bryan\desktop\c-primer\chapter-2-code\print1.c
+	<stdio.h>
+

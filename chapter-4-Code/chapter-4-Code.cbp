@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="chapter-4-Code" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/chapter-4-Code" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/chapter-4-Code" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="defines.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="flags.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="floats.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pizza.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="praise2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="praisel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printout.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stringf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="talkback.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="varwid.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="width.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

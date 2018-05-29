@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1527545598 source:c:\users\bryan\desktop\c-primer\chapter-4-code\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527524152 source:c:\users\bryan\desktop\c-primer\chapter-4-code\talkback.c
+	<stdio.h>
+	<string.h>
+
+1527537112 source:c:\users\bryan\desktop\c-primer\chapter-4-code\praisel.c
+	<stdio.h>
+
+1527537546 source:c:\users\bryan\desktop\c-primer\chapter-4-code\praise2.c
+	<stdio.h>
+	<string.h>
+
+1527543037 source:c:\users\bryan\desktop\c-primer\chapter-4-code\pizza.c
+	<stdio.h>
+
+1527543077 source:c:\users\bryan\desktop\c-primer\chapter-4-code\defines.c
+	<stdio.h>
+	<limits.h>
+	<float.h>
+
+1527543321 source:c:\users\bryan\desktop\c-primer\chapter-4-code\printout.c
+	<stdio.h>
+
+1527544326 source:c:\users\bryan\desktop\c-primer\chapter-4-code\width.c
+	<stdio.h>
+
+1527544422 source:c:\users\bryan\desktop\c-primer\chapter-4-code\floats.c
+	<stdio.h>
+
+1527544787 source:c:\users\bryan\desktop\c-primer\chapter-4-code\flags.c
+	<stdio.h>
+
+1527545297 source:c:\users\bryan\desktop\c-primer\chapter-4-code\stringf.c
+	<stdio.h>
+
+1527545598 source:c:\users\bryan\desktop\c-primer\chapter-4-code\input.c
+	<stdio.h>
+
+1527546173 source:c:\users\bryan\desktop\c-primer\chapter-4-code\varwid.c
+	<stdio.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1527561403 source:c:\users\bryan\desktop\c-primer\chapter-4-problems\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527548254 source:c:\users\bryan\desktop\c-primer\chapter-4-problems\problem1.c
+	<stdio.h>
+
+1527550113 source:c:\users\bryan\desktop\c-primer\chapter-4-problems\problem2.c
+	<stdio.h>
+
+1527555854 source:c:\users\bryan\desktop\c-primer\chapter-4-problems\problem3.c
+	<stdio.h>
+
+1527556267 source:c:\users\bryan\desktop\c-primer\chapter-4-problems\problem4.c
+	<stdio.h>
+
